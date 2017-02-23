@@ -1,0 +1,3 @@
+1.放jar包的lib目录，应该放在WEB_INF下面，以免tomcat启动失败。
+2.jsp文件放在web中，若需要防止暴露，放在WEB-INF下。
+3.编译nginx源码安装时，可参照 http://www.jianshu.com/p/d5114a2a2052  http://williamx.blog.51cto.com/3629295/958398
